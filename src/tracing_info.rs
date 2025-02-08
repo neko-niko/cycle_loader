@@ -2,7 +2,6 @@ use std::fmt::Display;
 
 use ahash::AHashMap;
 use chrono::Local;
-use faststr::FastStr;
 
 pub(crate) enum Status {
     NotStarted,
